@@ -12,7 +12,8 @@ An online learning platform for teachers to upgrade their qualifications.
 2️⃣ **BOZORDA** 🛍️  
 An online shopping app for the large Abu Saxiy bazaar in Uzbekistan.  
 - A smooth and intuitive shopping experience.  
-- Optimized for fast browsing and seamless checkout.  
+- Optimized for fast browsing and seamless checkout.
+- [View Figma Design](https://www.figma.com/design/cJJfBzxzslxJqN5wgUr1r2/BOZORDA?node-id=0-1&m=dev&t=l55I62Q1UAxv5B5N-1)
 
 3️⃣ **Traffic Violation App** 🚦  
 A traffic violation reporting and management system designed for Linux.  
@@ -28,7 +29,7 @@ A hackathon MVP project that generates daily meal plans.
 A tourism app to explore hotels in major travel destinations.  
 - View hotels in **real-time 360° format**.  
 - Includes all essential hotel details for tourists.  
-- [View Figma Design](https://www.figma.com/design/3100Vh60mcU3YmK9ToTeVE/TopTRAVEL?node-id=0-1&t=YAOc4es1JWO6s3RF-1)  
+- [View Figma Design](https://www.figma.com/design/3100Vh60mcU3YmK9ToTeVE/TopTRAVEL?node-id=0-1&t=YAOc4es1JWO6s3RF-1)
 
 🚀 **How to Use**  
 Clone this repository:  
